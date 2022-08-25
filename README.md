@@ -22,6 +22,4 @@
   </div>
 </div>
 
-<div align="left">
-  ## [See my Web Portfolio](https://igortrindade.dev)
-</div>
+## [See my Web Portfolio](https://igortrindade.dev)
