@@ -7,7 +7,6 @@
     Developer
   </h2>
 </div>
-## 
 
 <div align="center">
   <a href="https://github.com/igortrinidad">
