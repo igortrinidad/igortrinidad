@@ -1,11 +1,11 @@
 
-<h1 align="left">Hello world!</h1>
+# Hello world!
 
-<h3>I'm a passionate Full-Stack JS Developer</h3>
+## I'm a passionate Full-Stack JS Developer
 
 <div align="center">
   <a href="https://github.com/igortrinidad">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igortrinidad&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igortrinidad&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortrinidad&layout=compact&langs_count=7&theme=merko" />
   </a>
   <div style="display: inline_block" align="center"><br>
@@ -23,7 +23,5 @@
 </div>
 
 <div align="left">
-  <a href="https://igortrindade.dev" alt="Igor Trindade Web Portfolio">
-    <h3>See my Web Portfolio!</h3>
-  </a>
+  ## [See my Web Portfolio](https://igortrindade.dev)
 </div>
